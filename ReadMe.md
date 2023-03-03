@@ -6,5 +6,5 @@ towards activities such as drinking, smoking and enormous fast food consumption 
 
 ## Objective
 The meain goal is to create a predictive model from the data analysis to predict the likelihood of people falling prey to heart disease. 
-## benefit 
+## Benefit 
 The model and analysis inturn helps the health care workers in reducing fatality rate as well as improving treatement and prevension. 
